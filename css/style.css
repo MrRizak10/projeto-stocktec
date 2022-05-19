@@ -21,9 +21,18 @@
 
 .content{
     background-color:rgb(255, 255, 255); 
-    width: 100%;
+    width: 50%;
     height: 500px;
     float: left;
+    padding-top: 100px;
+}
+
+.content2{
+    background-color:rgb(255, 255, 255); 
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-top: 100px;
 }
 .produto1{
     background-color: #ffffff;
